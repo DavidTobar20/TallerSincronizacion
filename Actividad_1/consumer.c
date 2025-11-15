@@ -1,7 +1,7 @@
 /*********************************************************************************************
  * Pontificia Universidad Javeriana
  * Sistemas Operativos
- * Autor: Juan David Daza Caro
+ * Autor: Juan David Daza Caro - David Tobar Artunduaga
  * Docente: John Corredor PhD.
  * Taller de Sincronizacion - Problema Productor-Consumidor
  *
