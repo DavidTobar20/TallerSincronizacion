@@ -2,7 +2,7 @@
  * Pontificia Universidad Javeriana
  * Sistemas Operativos
  * Taller de Sincronización - Hilos POSIX (pthreads)
- *
+ * Autor: Juan David Daza - David Tobar Artunduaga
  * Descripción:
  * Implementación del problema Productor–Consumidor usando hilos. 
  * Hay varios productores generando mensajes y un único consumidor.
