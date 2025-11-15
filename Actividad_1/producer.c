@@ -2,7 +2,7 @@
  * Pontificia Universidad Javeriana
  * Sistemas Operativos
  * Taller de Sincronizacion - Problema Productor-Consumidor
- * 
+ * Autor: Juan David Daza - David Tobar Artunduaga
  * Descripcion:
  * Proceso productor que genera items y los coloca en un buffer compartido.
  * Utiliza semaforos con nombre para sincronizacion entre procesos.
