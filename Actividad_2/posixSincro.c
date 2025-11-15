@@ -1,4 +1,13 @@
-
+/*********************************************************************************************
+ * Pontificia Universidad Javeriana
+ * Sistemas Operativos
+ * Taller de Sincronización - Hilos POSIX (pthreads)
+ *
+ * Descripción:
+ * Implementación del problema Productor–Consumidor usando hilos. 
+ * Hay varios productores generando mensajes y un único consumidor.
+ * La coordinación se hace con un mutex y variables de condición.
+ *********************************************************************************************/
 #include <stdio.h>      // printf, sprintf
 #include <stdlib.h>     // exit, malloc si se necesitara
 #include <pthread.h>    // hilos, mutex y variables de condición
